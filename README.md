@@ -6,7 +6,7 @@ Dashboard de ventas en Power BI (enero a octubre 2026): ventas, compras, márgen
 
 ## Vista previa
 
-![Dashboard](Panel%20Enero%20-%20Octubre%202026..png)
+![Dashboard](dashboard.png)
 
 ## Qué incluye
 
