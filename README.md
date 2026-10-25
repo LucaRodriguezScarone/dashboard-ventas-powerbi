@@ -1,7 +1,8 @@
 # Dashboard de Ventas - Power BI
 
-Dashboard de ventas en Power BI (enero a octubre 2026): ventas, compras, márgenes por producto, gastos y análisis por provincia y vendedor.
+📊 Vender más no siempre significa ganar más
 
+Desarrollé un dashboard en Power BI para analizar ventas, compras y rentabilidad (enero a octubre 2026), y el análisis dejó una conclusión clara: el producto más vendido no es el más rentable.
 > Los datos son ficticios y se usan solo con fines demostrativos.
 
 ## Vista previa
@@ -30,6 +31,10 @@ https://github.com/user-attachments/assets/e93f16ea-b006-4aec-b87d-a71cffcb398a
 - Distribución de otros gastos (sueldos, alquiler, marketing)
 - Margen por producto y por mes
 - Filtros por producto y provincia
+
+##Cómo lo construí:
+
+Limpieza y preparación de datos en Excel, modelado y visualización en Power BI, y cálculo de indicadores con DAX
 
 ## Archivos
 
