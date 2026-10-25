@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/e93f16ea-b006-4aec-b87d-a71cffcb398a
 - Margen por producto y por mes
 - Filtros por producto y provincia
 
-##Cómo lo construí:
+Cómo lo construí:
 
 Limpieza y preparación de datos en Excel, modelado y visualización en Power BI, y cálculo de indicadores con DAX
 
